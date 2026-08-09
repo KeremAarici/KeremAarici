@@ -54,5 +54,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/KeremAarici/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/KeremAarici/KeremAarici/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
