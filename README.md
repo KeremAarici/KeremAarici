@@ -39,11 +39,20 @@
 ---
 
 ### Statistics
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KeremAarici&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KeremAarici&theme=tokyonight&hide_border=true" />
-</p>
+<h3 align="center"> Activity map</h3>
+
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeremAarici&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&area=true&hide_border=true&margin_width=10" width="100%" alt="Activity Graph" />
+</p>
+
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
